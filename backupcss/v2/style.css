@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather",serif;
+    
+}
+h1{
+    /* margin: 50px auto 0 auto; */
+    margin: 0px;
+    font-family: "Sacramento",cursive;
+}
+
+h2{
+    font-family: "Montserrat",sans-serif;
+    /* em and % propertie gets  inherited to child if body has font-size=2em and h1 which is inside body has 
+font-size=5.2em then h1 with inherited values from and body and it will be 7.2em  */
+/* px is not inherited */
+    font-size: 2.5rem;
+}
+h3{
+    font-family: "Montserrat",sans-serif;
+}
+
+.top-container{
+background-color: #E4f9f5;
+position: relative;
+padding-top: 100px;
+
+}
+
+.middle-container{
+    
+   
+
+}
+
+.bottom-container{
+
+
+}
+
+.skill-row{
+
+    /* --style1--
+     width: 70%;
+    margin: auto; */
+
+    /* --style2--
+     width: 50%;
+    margin: auto; */
+
+    /* --style3--
+    width: 70%;
+    margin: 100px auto 100px auto;
+    text-align: left; */
+
+    /* --style4--
+    width: 70%;
+    margin: 100px auto 100px auto;
+    text-align: center;
+    line-height: 1; or line-height: 2; */
+    
+    /* --style 5--
+    width: 70%;
+    margin: 20px auto 50px auto; */
+
+    /* --style6--
+     width: 70%; 
+    margin: 100px auto 100px auto*/
+
+    width: 50%;
+    margin: 50px auto 50px auto ;
+    text-align: left;
+    line-height: 2;
+    padding: 10px;
+    
+    
+}
+
+
+/* we  can size the image size or remove this .developer-img and .code-img css if we want */
+
+ /* --style 1 for skills---- */
+ .code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;   
+}
+
+.developer-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;   
+} 
+
+    /* or  */
+
+    /* --style 1 for skills---- */
+
+/* 
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+.developer-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+} */

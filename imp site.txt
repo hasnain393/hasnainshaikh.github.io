@@ -1,0 +1,26 @@
+unicode-table:use emoji intoo html like heart-symbols/:your html code must
+have :<meta charset="UTF-8" />
+https://unicode-table.com/en/sets/heart-symbols/
+
+html tags documentation
+https://devdocs.io/html/element/hr
+
+crop image into circle
+crop-circle.image online.co
+
+html documentation
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+best site to find color
+https://colorhunt.co/
+
+Default browser css which does  not allow the change for :hr tag
+
+emojis
+https://emojipedia.org/search/?q=heart
+
+for emoji in title
+https://www.favicon.cc/
+
+more icons
+https://www.flaticon.com/
